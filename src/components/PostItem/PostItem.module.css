@@ -1,0 +1,21 @@
+.post-item-container {
+  padding: 0 0.5rem 1.5rem 0.5rem;
+  border-radius: 0.25rem;
+}
+
+.post-item-container:hover {
+  background-color: #eee;
+  cursor: pointer;
+}
+
+.post-item-title {
+  margin: 0.5rem 0 1.25rem;
+  text-transform: capitalize;
+}
+
+.post-item-body {
+  margin-right: 1.5rem;
+  padding-bottom: 1rem;
+  font-style: italic;
+  text-align: justify;
+}

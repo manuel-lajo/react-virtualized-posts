@@ -1,0 +1,27 @@
+.post-title {
+  margin: 0.5rem 0 1.25rem;
+  text-transform: capitalize;
+}
+
+.post-body {
+  padding-bottom: 1rem;
+}
+
+.post-button {
+  padding: 0.25rem 0.5rem;
+  border: 2px solid black;
+  border-radius: 0.25rem;
+  color: black;
+  outline: none;
+  cursor: pointer;
+}
+
+.add-comment-text-container {
+  padding-bottom: 0.5rem;
+}
+
+.add-comment-text {
+  width: 100%;
+  height: 2.5rem;
+  resize: none;
+}
